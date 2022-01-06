@@ -9,6 +9,15 @@ h1 {
   font-family: 'PT Serif', serif;
   font-size: 50px;
 }
+#mission-image{
+  background-color: #93FFD8;
+}
+#vission-image{
+  background-color: #8267BE;
+}
+#goal-image{
+  background-color: #DFD3C3;
+}
 .bor{
   border-left-style: solid ;
    border-color: blue;
@@ -89,6 +98,15 @@ img {
   background-repeat: no-repeat;
   background-position: right;
   background-size: 100px;
+}
+#assis-img{
+  background-color: #7CD1B8;
+}
+#assignment-img{
+background-color: #F9C5D5;
+}
+#mcq-img{
+background-color: #5584AC;
 }
 
 .fifth-part {
