@@ -6,7 +6,8 @@ h1 {
   font-family: 'PT Serif', serif;
   font-size: 50px;
 }
-p{
+
+p {
   font-size: 40px;
 }
 
@@ -26,9 +27,10 @@ p{
   width: 50%;
   padding-left: 8%;
 }
-.one-third-width{
+
+.one-third-width {
   width: 30%;
-    padding-left: 3%;
+  padding-left: 3%;
 }
 
 .half-width img {
@@ -40,12 +42,14 @@ p{
   background-image: linear-gradient(#F47340, #EA5C2B);
   padding: 10px 40px;
   border-radius: 5px;
-  font-weight: 1000px;
+  font-weight: 100px;
   color: white;
 }
-.second-part{
+
+.second-part {
   margin-bottom: 80px;
 }
+
 .mission-header {
   font-family: 'PT Serif', serif;
   font-size: 50px;
@@ -57,28 +61,32 @@ img {
   width: 50%;
   margin-right: 50px;
 }
-.mission-item{
+
+.mission-item {
   margin-left: 5%;
   margin-right: 5%;
   box-shadow: 10px 10px 5px #CCD1E4;
   border-radius: 30px;
 }
 
-.third-part{
+.third-part {
   margin-left: 100px;
   background-image: url(images/shapes/sh10.png);
   background-repeat: no-repeat;
-background-position: left;
+  background-position: left;
 }
 
-.fourth-part{
+.fourth-part {
   margin-top: 100px;
   background-image: url(images/shapes/shape-1.png);
   background-repeat: no-repeat;
-background-position: right;
-background-size: 100px;
-
+  background-position: right;
+  background-size: 100px;
 }
-.fifth-part{
+
+.fifth-part {
   margin-top: 101px;
+}
+.lastpart{
+  text-align: center;
 }
