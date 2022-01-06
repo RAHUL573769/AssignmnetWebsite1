@@ -107,9 +107,8 @@ img {
   margin-top: 100px;
   background-image: url(images/shapes/sh10.png);
   background-repeat: no-repeat;
-  background-position: right;
-  background-size: 1000px;
-  margin-bottom: 200px;
+  background-position: left;
+
 
 
 }
