@@ -6,7 +6,11 @@ h1 {
   font-family: 'PT Serif', serif;
   font-size: 50px;
 }
-
+.bor{
+  border-left-style: solid ;
+   border-color: blue;
+   padding-left: 20px;
+}
 p {
   font-size: 40px;
 }
@@ -90,5 +94,5 @@ img {
 .lastpart{
   text-align: center;
   background-color: #548CFF;
-  
+
 }
