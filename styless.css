@@ -1,25 +1,53 @@
-h1{
+* {
+  font-weight: bold;
+}
+
+h1 {
   font-family: 'PT Serif', serif;
   font-size: 50px;
 }
-.partcolor{
+
+.top-part {
+  padding-bottom: 20px;
+}
+
+.partcolor {
   color: #F47340;
 }
-section{
+
+.flexible-container {
   display: flex;
 }
-.half-width{
+
+.half-width {
   width: 50%;
   padding-left: 8%;
 }
-.half-width img{
-  width:80%;
+.one-third-width{
+  width: 30%;
+    padding-left: 8%;
 }
-.link-button{
+
+.half-width img {
+  width: 100%;
+}
+
+.link-button {
   text-decoration: none;
-background-image: linear-gradient(#F47340,#EA5C2B);
+  background-image: linear-gradient(#F47340, #EA5C2B);
   padding: 10px 40px;
   border-radius: 5px;
   font-weight: 700;
-  color:white;
+  color: white;
+}
+
+.mission-header {
+  font-family: 'PT Serif', serif;
+  font-size: 50px;
+  text-align: center;
+  padding-bottom: 100px;
+}
+
+img {
+  width: 50%;
 }
