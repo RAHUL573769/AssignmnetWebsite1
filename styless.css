@@ -15,3 +15,11 @@ section{
 .half-width img{
   width:80%;
 }
+.link-button{
+  text-decoration: none;
+background-image: linear-gradient(#F47340,#EA5C2B);
+  padding: 10px 40px;
+  border-radius: 5px;
+  font-weight: 700;
+  color:white;
+}
