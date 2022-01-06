@@ -70,3 +70,11 @@ img {
   background-repeat: no-repeat;
 background-position: left;
 }
+
+.fourth-part{
+  margin-top: 100px;
+  background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+background-position: right;
+background-size: 100px;
+}
