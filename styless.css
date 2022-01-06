@@ -1,6 +1,9 @@
 * {
   font-weight: bold;
 }
+a{
+  font-size: 30px;
+}
 
 h1 {
   font-family: 'PT Serif', serif;
