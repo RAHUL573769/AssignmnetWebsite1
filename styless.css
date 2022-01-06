@@ -20,7 +20,22 @@ h1 {
   text-align: center;
   padding-bottom: 100px;
 }
+.flexible-container {
+  display: flex;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(#F47340, #EA5C2B);
+  padding: 10px 40px;
+  border-radius: 5px;
+  font-weight: 100;
+  color: white;
+}
 /* 1st Part Css */
+.top-part {
+  padding-bottom: 20px;
+}
+
 .bor{
   border-left-style: solid ;
    border-color: blue;
@@ -41,15 +56,10 @@ p {
   font-size: 40px;
 }
 
-.top-part {
-  padding-bottom: 20px;
-}
 
 
 
-.flexible-container {
-  display: flex;
-}
+
 
 .half-width {
   width: 50%;
@@ -65,14 +75,7 @@ p {
   width: 100%;
 }
 
-.link-button {
-  text-decoration: none;
-  background-image: linear-gradient(#F47340, #EA5C2B);
-  padding: 10px 40px;
-  border-radius: 5px;
-  font-weight: 100px;
-  color: white;
-}
+
 
 .second-part {
   margin-bottom: 80px;
@@ -105,6 +108,8 @@ img {
   background-image: url(images/shapes/sh10.png);
   background-repeat: no-repeat;
   background-position: right;
+  background-size: 1000px;
+  margin-bottom: 200px;
 
 
 }
